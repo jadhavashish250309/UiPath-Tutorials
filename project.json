@@ -3,7 +3,7 @@
   "description": "UIPath Tutorials from Youtube",
   "main": "Main.xaml",
   "dependencies": {
-    "Acme_Library": "[1.0.3]",
+    "Acme_Library": "[1.0.5]",
     "UiPath.Credentials.Activities": "[2.0.0]",
     "UiPath.Excel.Activities": "[2.20.1]",
     "UiPath.Mail.Activities": "[1.18.2]",
